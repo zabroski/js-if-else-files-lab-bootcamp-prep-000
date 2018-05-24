@@ -1,4 +1,4 @@
-var name = "susan"
+var name === "susan"
 var height = "70"
  
 // Don't worry about this
